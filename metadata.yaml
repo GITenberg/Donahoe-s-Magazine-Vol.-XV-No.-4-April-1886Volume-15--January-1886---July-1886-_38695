@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38695#Donahoe-s-Magazine-Vol.-XV-No.-4-April-1886Volume-15--January-1886---July-1886-
 gutenberg_bookshelf: Donahoe's Magazine
 gutenberg_issued: '2012-01-28'
 gutenberg_type: Text
